@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOpenAipData", "ReadOpenAipData\ReadOpenAipData.csproj", "{75A3E3CD-D7EF-4B50-AB7E-F94E1FC69C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A3E3CD-D7EF-4B50-AB7E-F94E1FC69C90}.Debug|x86.ActiveCfg = Debug|x86
+		{75A3E3CD-D7EF-4B50-AB7E-F94E1FC69C90}.Debug|x86.Build.0 = Debug|x86
+		{75A3E3CD-D7EF-4B50-AB7E-F94E1FC69C90}.Release|x86.ActiveCfg = Release|x86
+		{75A3E3CD-D7EF-4B50-AB7E-F94E1FC69C90}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
